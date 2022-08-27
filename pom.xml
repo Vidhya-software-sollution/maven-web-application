@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Vidhyaorganisation</name>
-	      <url>http:http://43.205.217.121:7397/Vidhyaorganisation/repository/flipkart-snapshot/</url>
+	      <url>http://43.205.217.121:7397/Vidhyaorganisation/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
