@@ -101,11 +101,11 @@
 	      <url>http://172.31.39.38:7397/Vidhyaorganisation/repository/flipkart-release/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
+	    <Repository>
 	      <id>nexus</id>
 	      <name>Vidhyaorganisation</name>
 	      <url>http://172.31.39.38:7397/Vidhyaorganisation/repository/flipkart-snapshot/</url>
-	    </snapshotRepository>
+	    </Repository>
 	    
 	</distributionManagement>
 	
